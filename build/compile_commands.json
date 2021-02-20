@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dev_luyifang/WebServerObj/server_epoll/build",
+  "command": "g++   -I/home/dev_luyifang/WebServerObj/server_epoll/./include -I/home/dev_luyifang/WebServerObj/server_epoll/./images -I/home/dev_luyifang/WebServerObj/server_epoll/./Web   -std=c++11 -march=native -O3 -pthread  -O0 -Wall -g2 -ggdb   -o CMakeFiles/./bin/main.dir/src/main.cpp.o -c /home/dev_luyifang/WebServerObj/server_epoll/src/main.cpp",
+  "file": "/home/dev_luyifang/WebServerObj/server_epoll/src/main.cpp"
+}
+]

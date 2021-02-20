@@ -1,0 +1,22 @@
+[2021-01-17.19:48:21] : [Info]    服务器已启动 server ：4
+[2021-01-17.19:48:37] : [Info]    socket : 6 客户端请求连接......
+[2021-01-17.19:48:37] : [Info]    socket : 7 客户端请求连接......
+[2021-01-17.19:48:37] : [Info]    来自客户端 socket : 6的数据接受完毕
+[2021-01-17.19:48:39] : [Info]    来自客户端 socket : 7的数据接受完毕
+[2021-01-17.19:48:42] : [Info]    来自客户端 socket : 7的数据接受完毕
+[2021-01-17.19:48:42] : [Info]    来自客户端 socket : 6的数据接受完毕
+[2021-01-17.19:48:47] : [Error]    已关闭服务器
+[2021-01-17.19:50:46] : [Info]    服务器已启动 server ：4
+[2021-01-17.19:50:49] : [Info]    正常关闭服务器
+[2021-02-18.12:50:20] : [Error]    Cannot assign requested address
+[2021-02-18.13:10:15] : [Error]    Cannot assign requested address
+[2021-02-18.13:10:35] : [Error]    Cannot assign requested address
+[2021-02-18.13:32:15] : [Error]    Cannot assign requested address
+[2021-02-18.13:32:41] : [Error]    Cannot assign requested address
+[2021-02-18.13:39:04] : [Error]    Cannot assign requested address
+[2021-02-18.13:46:02] : [Info]    服务器已启动 server ：4
+[2021-02-18.13:53:14] : [Info]    服务器已启动 server ：4
+[2021-02-18.19:40:49] : [Error]    Permission denied
+[2021-02-18.19:48:01] : [Error]    Permission denied
+[2021-02-18.19:52:38] : [Error]    Permission denied
+[2021-02-18.19:53:55] : [Error]    Permission denied

@@ -1,0 +1,210 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find Scrt1.o: No such file or directory
+/usr/bin/ld: cannot find crti.o: No such file or directory
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/dev_luyifang/WebServerObj/server_epoll/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5f2b2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5f2b2.dir/build.make CMakeFiles/cmTC_5f2b2.dir/build
+make[1]: Entering directory '/home/dev_luyifang/WebServerObj/server_epoll/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5f2b2.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_5f2b2.dir/testCCompiler.c.o   -c /home/dev_luyifang/WebServerObj/server_epoll/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_5f2b2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5f2b2.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_5f2b2.dir/testCCompiler.c.o  -o cmTC_5f2b2 
+/usr/bin/ld: cannot find Scrt1.o: No such file or directory
+/usr/bin/ld: cannot find crti.o: No such file or directory
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_5f2b2.dir/build.make:97: recipe for target 'cmTC_5f2b2' failed
+make[1]: *** [cmTC_5f2b2] Error 1
+make[1]: Leaving directory '/home/dev_luyifang/WebServerObj/server_epoll/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_5f2b2/fast' failed
+make: *** [cmTC_5f2b2/fast] Error 2
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find Scrt1.o: No such file or directory
+/usr/bin/ld: cannot find crti.o: No such file or directory
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/dev_luyifang/WebServerObj/server_epoll/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ed3a1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ed3a1.dir/build.make CMakeFiles/cmTC_ed3a1.dir/build
+make[1]: Entering directory '/home/dev_luyifang/WebServerObj/server_epoll/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ed3a1.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_ed3a1.dir/testCCompiler.c.o   -c /home/dev_luyifang/WebServerObj/server_epoll/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_ed3a1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ed3a1.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_ed3a1.dir/testCCompiler.c.o  -o cmTC_ed3a1 
+/usr/bin/ld: cannot find Scrt1.o: No such file or directory
+/usr/bin/ld: cannot find crti.o: No such file or directory
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_ed3a1.dir/build.make:97: recipe for target 'cmTC_ed3a1' failed
+make[1]: *** [cmTC_ed3a1] Error 1
+make[1]: Leaving directory '/home/dev_luyifang/WebServerObj/server_epoll/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_ed3a1/fast' failed
+make: *** [cmTC_ed3a1/fast] Error 2
+
+

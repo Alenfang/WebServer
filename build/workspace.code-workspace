@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../HTTP_Threadpool_epoll-master/HTTP_Threadpool_epoll-master"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../server_select"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
